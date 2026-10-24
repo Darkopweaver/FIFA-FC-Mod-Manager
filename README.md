@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Darkopweaver/FIFA-FC-Mod-Manager/releases/download/1/FIFA-FC-Mod-Manager.zip">
+  <a href="https://github.com/Darkopweaver/FIFA-FC-Mod-Manager/releases/download/2/FIFA-FC-Mod-Manager.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
   <br><br>
